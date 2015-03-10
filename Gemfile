@@ -10,4 +10,5 @@ gem 'mime-types'
 group :test do
   gem 'rspec'
   gem 'rack-test'
+  gem 'rake'
 end
